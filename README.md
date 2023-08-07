@@ -7,7 +7,7 @@ Soy una persona altamente emprendedora y orientada a resultados, siempre en busc
 Transformo números en historias de éxito. Mi experiencia en el area de **operaciones** me ha brindado una visión integral de negocio y la capacidad de identificar oportunidades de mejora en diferentes áreas, contribuyendo a aprovechar al máximo el uso de los datos mediante diversas herramientas de análisis y visualización.
 
 
-## Experiencia en Herramientas y Lenguajes 🛠️🐍
+## Experta en.. 🛠️🐍
 
 Cuento con un sólido dominio y experiencia en el uso de diversas herramientas, entre ellas:
 
