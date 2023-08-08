@@ -40,6 +40,7 @@ Considero fundamental que las empresas fomenten una cultura de aprendizaje y cre
 Si tu empresa está enfocada en la innovación, la excelencia y el desarrollo del talento, ¡me encantaría formar parte de su equipo y contribuir al éxito mutuo!
 
 ¡Gracias por visitar mi perfil! 😊
-- 📫 Puedes contactarme: https://www.linkedin.com/in/florenciamiranda1/
+- 📫 Puedes contactarme: flormiranda1995@gmail.com 
+- 📫 https://www.linkedin.com/in/florenciamiranda1/
 
 
