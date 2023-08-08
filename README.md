@@ -22,9 +22,7 @@ Cuento con un sólido dominio y experiencia en el uso de diversas herramientas, 
 
 ## Working on .. 🔭🚀
 
-A lo largo de mi trayectoria, he trabajado en proyectos que han generado un impacto positivo en la toma de decisiones empresariales, incluyendo:
-
-- [Proyecto área de compras ALSA]: Implementé un sistema de análisis de datos que identificó oportunidades de reducción de costos y aumento de eficiencia en el área de compras de una empresa de producción agrícola, lo que llevó a un incremento significativo en la eficiencia del área.
+A continuación algunos de mis proyectos donde he trabajado aplicando todas mis habiliades de Data Scientist..
 
 - [Proyecto MLOps SteamGames]: el proyecto de MLOps de Steam Games combina la ciencia de datos con prácticas de ingeniería para brindar un sistema eficiente y escalable que permite predecir el precio de los juegos en la plataforma Steam y ofrecer recomendaciones personalizadas a los usuarios interesados en explorar nuevos títulos. [Ver repositorio] (https://github.com/flormiranda1/Proyecto-steamgames)
 
