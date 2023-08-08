@@ -1,5 +1,5 @@
-# Hi there 👋
-# Ingeniera Industrial Especializada en Ciencia de Datos 💻📊
+# Hi there 👋💻📊
+
 Mi nombre es **Florencia Miranda**, una Ingeniera Industrial apasionada por la ciencia de datos y su aplicación en la resolución de problemas de negocio. Mi enfoque se basa en extraer conocimiento valioso de los datos para tomar decisiones informadas que impulsen al crecimiento y eficiencia de las empresas. 
 
 Soy una persona altamente emprendedora y orientada a resultados, siempre en busca de nuevos desafíos y herramientas a aprender. 
